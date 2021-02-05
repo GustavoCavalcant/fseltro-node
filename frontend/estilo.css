@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#rodape {
+    text-align: center;
+}
+
+
+.container-fluid li {
+    font-weight: 600;
+    margin-top: 4px;
+    cursor: pointer;
+    font-size: 25px;
+}
+
+
+#imag_produto {
+    cursor: zoom-in;
+}
+.preco-antigo {
+    text-decoration: line-through;
+    font-size: 15px;
+}
+.preco-atual {
+    font-size: 20px;
+    color: red;
+}
+
+#input_nome {
+    width: 400px;
+}
+#input_msgs {
+    width: 400px;
+}
